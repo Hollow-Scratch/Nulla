@@ -20,4 +20,4 @@ add_executable(Nulla
 
 )
 
-target_link_libraries(candy PRIVATE LLVM)
+target_link_libraries(Nulla PRIVATE LLVM)
